@@ -5,3 +5,4 @@ algorithms to analyze and interpret key agricultural parameters, such as soil co
 conditions, and historical crop performance data. By doing so, the project seeks to provide 
 personalized and accurate recommendations to farmers, facilitating optimal crop selection based 
 on local environmental factors.
+The insight of this project is driven from vision placement.
